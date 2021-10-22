@@ -21,5 +21,5 @@ VALUES
     ("Kunamn", "Singh", 4),
     ("Malia", "Brown", 5),
     ("Sarah", "Lourde", 6),
-    ("Tom", "Allen", 7),
+    ("Tom", "Allen", 7);
     
