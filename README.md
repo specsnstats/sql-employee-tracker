@@ -23,6 +23,9 @@ Once installation is finished, navigate to the db folder in your command line, l
 If you need to name the database something other than ```employees_db```, you will have to go into the ```server.js``` and ```schema.sql``` files and replace all instances of ```employees_db``` with whatever you want the database to be named. 
 
 ## Usage Information:
+
+Video Demonstration: https://youtu.be/RdGZGaV5NX8
+
 Once the program is successfully installed, type ```node server.js```.
 
 This will run the program by giving you the Main Menu, where you will have the option to view any of the three tables (Departments, Roles, Employees), insert new Departments, Roles, or Employees. 
